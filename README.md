@@ -28,3 +28,7 @@ https://www.autoitscript.com/site/
 I understand that cybersecurity threat attacks are horrible these days, but we need a method to at least validate independent software developers like me that can't afford an EV certificate to avoid being detected as malware every time we create a new build.
 
 Also, if the AV vendors detect many legitimate executables as false positives, the users will lose confidence in their security solutions and will probably end up permitting the execution of an actual malware when the time comes.
+
+# Updates
+- Added another example that includes every library from the AutoIT include folder:
+https://www.virustotal.com/gui/file-analysis/NzNlZmMzNjc3ZWE4MWJiM2YwZTg1M2NjMTFlNGQ5OTY6MTc0MTI3MTAzNA==
